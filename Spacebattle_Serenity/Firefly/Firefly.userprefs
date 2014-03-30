@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\DIT 2013-2014\Programming\Github shit\UnitySteeringBehaviours\Assets\SteeringController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraSwitching.cs">
     <Files>
-      <File FileName="Assets\Scripts\Fly1.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\..\DIT 2013-2014\Programming\Github shit\UnitySteeringBehaviours\Assets\SteeringController.cs" Line="15" Column="86" />
+      <File FileName="Assets\Scripts\CameraSwitching.cs" Line="15" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
