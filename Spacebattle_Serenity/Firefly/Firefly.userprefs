@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraSwitching.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Desktop\Bastards (Working Title)\bastr7\bastr7\Assets\Code\Rotate.cs">
     <Files>
-      <File FileName="Assets\Scripts\CameraSwitching.cs" Line="15" Column="27" />
+      <File FileName="..\..\..\..\..\Desktop\Bastards (Working Title)\bastr7\bastr7\Assets\Code\Rotate.cs" Line="6" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
