@@ -1,14 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelTriggerRestart.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RandomExplosion.cs">
     <Files>
-      <File FileName="Assets\Scripts\VideoEnding.cs" Line="28" Column="32" />
+      <File FileName="Assets\Scripts\VideoCryBaby.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VideoEnding.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\AttackingState.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Video.cs" Line="1" Column="1" />
       <File FileName="..\..\..\..\..\Desktop\Unity Projects\New Projects 2013 - 2014\Alone in the Dark\Racing Game\Racing Project\Assets\Physics Platformer Kit\Scripts\Checkpoint.cs" Line="1" Column="1" />
       <File FileName="..\..\..\..\..\Desktop\Unity Projects\New Projects 2013 - 2014\Alone in the Dark\Racing Game\Racing Project\Assets\Physics Platformer Kit\Scripts\Coin.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Button.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\LevelTriggerRestart.cs" Line="7" Column="44" />
+      <File FileName="Assets\Scripts\LevelTriggerRestart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RandomExplosion.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

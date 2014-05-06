@@ -87,6 +87,7 @@
      <Compile Include="Assets\Scripts\TestLight.cs" />
      <Compile Include="Assets\Scripts\TestLightLifeSpheres.cs" />
      <Compile Include="Assets\Scripts\Video.cs" />
+     <Compile Include="Assets\Scripts\VideoCryBaby.cs" />
      <Compile Include="Assets\Scripts\VideoEnding.cs" />
      <Compile Include="Assets\Scripts\fly.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
